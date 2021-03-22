@@ -22,7 +22,7 @@ const wanderlan = {
             python: ["Django", "flask", "PyTorch", "Tensorflow", "Keras", "SciKit-Learn",
                      "Pandas", "NLTK", "SciPy", "Matplotlib", "spaCy", "Gensim"],
             java: ["Spring", "JPA", "JSF", "JFX"],
-            c: ["OpenMP", "MPI", "OpenCV]
+            c: ["OpenMP", "MPI", "OpenCV"]
         },
         test: ["Jasmine", "Jest", "Karma"],
         devOps: ["AWS", "Docker", "Nginx", "SemaphoreCI", "Jenkins", "CloudFormation"],
