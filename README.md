@@ -1,7 +1,6 @@
 <h2>Hi, I'm Wanderlan Carvalho!</h2>
 <img align='right' src="https://giffiles.alphacoders.com/136/13626.gif" width="230">
-<p><em>Backend Engineer at <a href="https://omni.chat/>OmniChat</a> 
-</em></p>
+<p><em>Backend Engineer at <a href="https://omni.chat/>OmniChat</a></em></p>
 
 [![Linkedin: wanderlan](https://img.shields.io/badge/-wanderlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderlan-alecio-de-carvalho-7283b6151/)](hhttps://www.linkedin.com/in/wanderlan-alecio-de-carvalho-7283b6151/)
 ![GitHub followers](https://img.shields.io/github/followers/wandercap?label=Follow&style=social)
@@ -20,7 +19,8 @@ const wanderlan = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django", "flask", "PyTorch", "Tensorflow", "Keras", "SciKit-Learn", "Pandas", "NLTK", "SciPy", "Matplotlib", "spaCy", "Gensim"],
+            python: ["Django", "flask", "PyTorch", "Tensorflow", "Keras", "SciKit-Learn",
+                     "Pandas", "NLTK", "SciPy", "Matplotlib", "spaCy", "Gensim"],
             java: ["Spring", "JPA", "JSF", "JFX"],
             c: ["OpenMP", "MPI", "OpenCV]
         },
