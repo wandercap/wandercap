@@ -1,5 +1,5 @@
 <h2>Hi, I'm Wanderlan Carvalho!</h2>
-<img align='right' src="https://giffiles.alphacoders.com/136/13626.gif" width="230">
+<img align='right' src="https://giffiles.alphacoders.com/136/13626.gif" width="170">
 <p><em>Backend Engineer at <a href="https://omni.chat/">OmniChat</a></em></p>
 <p><em>Founder at <a href="https://weavr.com.br/">Weavr</a></em></p>
 
